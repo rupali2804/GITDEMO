@@ -18,3 +18,8 @@ public void Twitter() {
 public void Twitter1() {
 	System.out.println("Twitter1");
 }
+
+@Test
+public void Twitter2() {
+	System.out.println("Twitter2");
+}
